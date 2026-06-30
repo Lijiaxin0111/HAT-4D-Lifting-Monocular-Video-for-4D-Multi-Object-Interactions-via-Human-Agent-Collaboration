@@ -45,11 +45,12 @@ HAT-4D decomposes monocular interaction lifting into agent-assisted perception, 
 If you find this project useful for your research, please cite:
 
 ```bibtex
-@article{li2026hat4d,
-  title   = {HAT-4D: Lifting Monocular Video for 4D Multi-Object Interactions via Human-Agent Collaboration},
-  author  = {Li, Jiaxin and Wu, Yuxiang and Zhang, Zhenkai and Shi, Xinrui and Wang, Haoyuan and Zhao, Yichen and Su, Linxiang and Yu, Chenyang and Zhang, Mingyu and Ding, Yifan and Wen, Boran and Zhang, Li and Liu, Ruiyang and Li, Yong-Lu},
-  journal = {arXiv preprint arXiv:2606.28215},
-  year    = {2026}
+@inproceedings{Li2026hat4d,
+  title     = {HAT-4D: Lifting Monocular Video for 4D Multi-Object Interactions via Human-Agent Collaboration},
+  author    = {Li, Jiaxin and Author, Second and Author, Third},
+  booktitle = {Computer Vision -- ECCV 2026},
+  year      = {2026},
+  note      = {Accepted, to appear}
 }
 ```
 
